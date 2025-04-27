@@ -1,6 +1,6 @@
 # Exploring Gemini Thinking with Structured Prompts and Google Search
 
-This Python script demonstrates how to use Google's Gemini AI models (like Gemini 1.5 Flash) to generate structured content about a specific subject. It utilizes a detailed prompt template **based on techniques recommended by Google for guiding the AI's thinking process (see [Google AI Thinking Prompt Guide](https://ai.google.dev/gemini-api/docs/thinking#prompt-guide)) and leverages the Google Search tool to enable the AI to perform research and present information in a predefined format.
+This Python script demonstrates how to use Google's Gemini AI models (like Gemini 2.5 Flash) to generate structured content about a specific subject. It utilizes a detailed prompt template **based on techniques recommended by Google for guiding the AI's thinking process (see [Google AI Thinking Prompt Guide](https://ai.google.dev/gemini-api/docs/thinking#prompt-guide)) and leverages the Google Search tool to enable the AI to perform research and present information in a predefined format.
 
 ## Purpose
 
